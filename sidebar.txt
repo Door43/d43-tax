@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tax:home|Door43 (tax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tax|d43-tax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tax/archive/master.zip|d43-tax.zip]]
+
+**Recent Changes**
+{{changes>ns = tax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tax|Ethnologue data]]
+
